@@ -1,0 +1,209 @@
+iso3,name,iso_numeric,in_validation_panel
+ABW,Aruba,533,0
+AFG,Afghanistan,4,0
+AGO,Angola,24,0
+ALB,Albania,8,0
+AND,Andorra,20,0
+ARE,United Arab Emirates,784,0
+ARG,Argentina,32,0
+ARM,Armenia,51,0
+ATG,Antigua and Barbuda,28,0
+AUS,Australia,36,1
+AUT,Austria,40,0
+AZE,Azerbaijan,31,0
+BDI,Burundi,108,0
+BEL,Belgium,56,0
+BEN,Benin,204,0
+BFA,Burkina Faso,854,0
+BGD,Bangladesh,50,0
+BGR,Bulgaria,100,0
+BHR,Bahrain,48,0
+BHS,Bahamas,44,0
+BIH,Bosnia and Herzegovina,70,0
+BLR,Belarus,112,0
+BLZ,Belize,84,0
+BMU,Bermuda,60,0
+BOL,Bolivia,68,0
+BRA,Brazil,76,1
+BRB,Barbados,52,0
+BRN,Brunei,96,0
+BTN,Bhutan,64,0
+BWA,Botswana,72,0
+CAF,Central African Republic,140,0
+CAN,Canada,124,1
+CHE,Switzerland,756,0
+CHL,Chile,152,0
+CIV,Cote d'Ivoire,384,0
+CMR,Cameroon,120,0
+COD,"Congo, Dem. Rep.",180,0
+COG,"Congo, Rep.",178,0
+COL,Colombia,170,0
+COM,Comoros,174,0
+CPV,Cabo Verde,132,0
+CRI,Costa Rica,188,0
+CUB,Cuba,192,0
+CUW,Curacao,531,0
+CYM,Cayman Islands,136,0
+CYP,Cyprus,196,0
+CZE,Czechia,203,1
+DEU,Germany,276,1
+DJI,Djibouti,262,0
+DMA,Dominica,212,0
+DNK,Denmark,208,0
+DOM,Dominican Republic,214,0
+DZA,Algeria,12,0
+ECU,Ecuador,218,0
+EGY,Egypt,818,0
+ERI,Eritrea,232,0
+ESP,Spain,724,0
+EST,Estonia,233,0
+ETH,Ethiopia,231,0
+FIN,Finland,246,0
+FJI,Fiji,242,0
+FRA,France,250,0
+FRO,Faroe Islands,234,0
+FSM,"Micronesia, Fed. Sts.",583,0
+GAB,Gabon,266,0
+GBR,United Kingdom,826,0
+GEO,Georgia,268,0
+GHA,Ghana,288,0
+GIN,Guinea,324,0
+GMB,Gambia,270,0
+GNB,Guinea-Bissau,624,0
+GNQ,Equatorial Guinea,226,0
+GRC,Greece,300,0
+GRD,Grenada,308,0
+GRL,Greenland,304,0
+GTM,Guatemala,320,0
+GUM,Guam,316,0
+GUY,Guyana,328,0
+HND,Honduras,340,0
+HRV,Croatia,191,0
+HTI,Haiti,332,0
+HUN,Hungary,348,0
+IDN,Indonesia,360,1
+IMN,Isle of Man,833,0
+IND,India,356,1
+IRL,Ireland,372,0
+IRN,Iran,364,0
+IRQ,Iraq,368,0
+ISL,Iceland,352,0
+ISR,Israel,376,0
+ITA,Italy,380,0
+JAM,Jamaica,388,0
+JOR,Jordan,400,0
+JPN,Japan,392,1
+KAZ,Kazakhstan,398,0
+KEN,Kenya,404,0
+KGZ,Kyrgyz Republic,417,0
+KHM,Cambodia,116,1
+KIR,Kiribati,296,0
+KNA,St. Kitts and Nevis,659,0
+KOR,"Korea, Rep.",410,1
+KWT,Kuwait,414,0
+LAO,Lao PDR,418,0
+LBN,Lebanon,422,0
+LBR,Liberia,430,0
+LBY,Libya,434,0
+LCA,St. Lucia,662,0
+LIE,Liechtenstein,438,0
+LKA,Sri Lanka,144,0
+LSO,Lesotho,426,0
+LTU,Lithuania,440,1
+LUX,Luxembourg,442,0
+LVA,Latvia,428,0
+MAR,Morocco,504,0
+MCO,Monaco,492,0
+MDA,Moldova,498,0
+MDG,Madagascar,450,0
+MDV,Maldives,462,0
+MEX,Mexico,484,1
+MHL,Marshall Islands,584,0
+MKD,North Macedonia,807,0
+MLI,Mali,466,0
+MLT,Malta,470,0
+MMR,Myanmar,104,0
+MNE,Montenegro,499,0
+MNG,Mongolia,496,1
+MOZ,Mozambique,508,0
+MRT,Mauritania,478,0
+MUS,Mauritius,480,0
+MWI,Malawi,454,0
+MYS,Malaysia,458,0
+NAM,Namibia,516,0
+NCL,New Caledonia,540,0
+NER,Niger,562,0
+NGA,Nigeria,566,0
+NIC,Nicaragua,558,0
+NLD,Netherlands,528,0
+NOR,Norway,578,1
+NPL,Nepal,524,0
+NRU,Nauru,520,0
+NZL,New Zealand,554,0
+OMN,Oman,512,0
+PAK,Pakistan,586,0
+PAN,Panama,591,0
+PER,Peru,604,0
+PHL,Philippines,608,1
+PLW,Palau,585,1
+PNG,Papua New Guinea,598,0
+POL,Poland,616,0
+PRI,Puerto Rico,630,0
+PRK,"Korea, Dem. People's Rep.",408,0
+PRT,Portugal,620,0
+PRY,Paraguay,600,0
+PSE,West Bank and Gaza,275,0
+PYF,French Polynesia,258,0
+QAT,Qatar,634,0
+ROU,Romania,642,0
+RUS,Russian Federation,643,0
+RWA,Rwanda,646,0
+SAU,Saudi Arabia,682,0
+SDN,Sudan,729,0
+SEN,Senegal,686,0
+SGP,Singapore,702,1
+SLB,Solomon Islands,90,0
+SLE,Sierra Leone,694,0
+SLV,El Salvador,222,0
+SMR,San Marino,674,0
+SOM,Somalia,706,0
+SRB,Serbia,688,0
+SSD,South Sudan,728,0
+STP,Sao Tome and Principe,678,0
+SUR,Suriname,740,0
+SVK,Slovak Republic,703,0
+SVN,Slovenia,705,0
+SWE,Sweden,752,1
+SWZ,Eswatini,748,0
+SXM,Sint Maarten (Dutch part),534,0
+SYC,Seychelles,690,0
+SYR,Syrian Arab Republic,760,0
+TCD,Chad,148,0
+TGO,Togo,768,0
+THA,Thailand,764,1
+TJK,Tajikistan,762,0
+TKM,Turkmenistan,795,0
+TLS,Timor-Leste,626,0
+TON,Tonga,776,0
+TTO,Trinidad and Tobago,780,0
+TUN,Tunisia,788,0
+TUR,Turkiye,792,0
+TUV,Tuvalu,798,0
+TWN,Taiwan,158,1
+TZA,Tanzania,834,0
+UGA,Uganda,800,0
+UKR,Ukraine,804,0
+URY,Uruguay,858,0
+USA,United States,840,1
+UZB,Uzbekistan,860,0
+VCT,St. Vincent and the Grenadines,670,0
+VEN,Venezuela,862,0
+VIR,Virgin Islands (U.S.),850,0
+VNM,Vietnam,704,1
+VUT,Vanuatu,548,0
+WSM,Samoa,882,0
+XKX,Kosovo,983,0
+YEM,"Yemen, Rep.",887,0
+ZAF,South Africa,710,1
+ZMB,Zambia,894,0
+ZWE,Zimbabwe,716,0
