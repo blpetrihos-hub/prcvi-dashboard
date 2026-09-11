@@ -6,7 +6,8 @@
  * Same web app URL stays valid.
  * Execute as: Me. Who has access: Anyone.
  *
- * Mail goes to the Google account that owns the project.
+ * Keep this project on personal Gmail so MailApp can deliver.
+ * Notices go to blpetrihos@wm.edu.
  */
 function doGet(e) {
   var p = (e && e.parameter) ? e.parameter : {};
@@ -42,7 +43,7 @@ function doGet(e) {
   ].join("\n");
 
   MailApp.sendEmail({
-    to: Session.getEffectiveUser().getEmail(),
+    to: "blpetrihos@wm.edu",
     subject: site.subject + ": " + city + ", " + country,
     body: body
   });
