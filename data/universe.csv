@@ -61,7 +61,6 @@ ETH,Ethiopia,231,0
 FIN,Finland,246,0
 FJI,Fiji,242,0
 FRA,France,250,0
-FRO,Faroe Islands,234,0
 FSM,"Micronesia, Fed. Sts.",583,0
 GAB,Gabon,266,0
 GBR,United Kingdom,826,0
@@ -73,7 +72,6 @@ GNB,Guinea-Bissau,624,0
 GNQ,Equatorial Guinea,226,0
 GRC,Greece,300,0
 GRD,Grenada,308,0
-GRL,Greenland,304,0
 GTM,Guatemala,320,0
 GUM,Guam,316,0
 GUY,Guyana,328,0
@@ -82,7 +80,6 @@ HRV,Croatia,191,0
 HTI,Haiti,332,0
 HUN,Hungary,348,0
 IDN,Indonesia,360,1
-IMN,Isle of Man,833,0
 IND,India,356,1
 IRL,Ireland,372,0
 IRN,Iran,364,0
@@ -106,14 +103,12 @@ LBN,Lebanon,422,0
 LBR,Liberia,430,0
 LBY,Libya,434,0
 LCA,St. Lucia,662,0
-LIE,Liechtenstein,438,0
 LKA,Sri Lanka,144,0
 LSO,Lesotho,426,0
 LTU,Lithuania,440,1
 LUX,Luxembourg,442,0
 LVA,Latvia,428,0
 MAR,Morocco,504,0
-MCO,Monaco,492,0
 MDA,Moldova,498,0
 MDG,Madagascar,450,0
 MDV,Maldives,462,0
